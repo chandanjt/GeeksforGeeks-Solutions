@@ -1,0 +1,26 @@
+# Local browser and auth data
+playwright_profile/
+
+# Private snapshots and export-only diagnostic data
+**/private/
+**/diagnostics/
+*.log
+
+# Optional local caches and Python environment
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# Local test exports and private source snapshots
+gfg_export_test/
+
+# Temporary editor and local tooling artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Generated or local-only analysis data
+coverage/
+.log/

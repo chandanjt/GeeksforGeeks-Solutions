@@ -1,0 +1,1562 @@
+{
+  "source": "GeeksforGeeks profile",
+  "total": 389,
+  "problems": [
+    {
+      "title": "Digits in N that Divide it",
+      "url": "https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/0"
+    },
+    {
+      "title": "Rotate Array by One",
+      "url": "https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/0"
+    },
+    {
+      "title": "Floor in Sorted Array",
+      "url": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/0"
+    },
+    {
+      "title": "Largest Subarray with 0 Sum",
+      "url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/0"
+    },
+    {
+      "title": "Array Subset",
+      "url": "https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/0"
+    },
+    {
+      "title": "Extra in One of the Two Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/index-of-an-extra-element/0"
+    },
+    {
+      "title": "Count Numbers with Digit 4",
+      "url": "https://www.geeksforgeeks.org/problems/count-numbers-containing-43022/0"
+    },
+    {
+      "title": "Armstrong Numbers",
+      "url": "https://www.geeksforgeeks.org/problems/armstrong-numbers2727/0"
+    },
+    {
+      "title": "Count Islands",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-number-of-islands/0"
+    },
+    {
+      "title": "Flood fill Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/0"
+    },
+    {
+      "title": "Number of Connected Components",
+      "url": "https://www.geeksforgeeks.org/problems/number-of-provinces/0"
+    },
+    {
+      "title": "Max Splits",
+      "url": "https://www.geeksforgeeks.org/problems/max-splits/0"
+    },
+    {
+      "title": "Binary Numbers with More 1s in All Prefixes",
+      "url": "https://www.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/0"
+    },
+    {
+      "title": "First n Fibonacci using DP",
+      "url": "https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/0"
+    },
+    {
+      "title": "Diagonal Sum in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/diagonal-sum-in-binary-tree/0"
+    },
+    {
+      "title": "Pair Sum Count in Two Linked Lists",
+      "url": "https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/0"
+    },
+    {
+      "title": "Rearrange Array Alternately",
+      "url": "https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/0"
+    },
+    {
+      "title": "Matrix Zig Zag Diagonal Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/0"
+    },
+    {
+      "title": "Reverse Words",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/0"
+    },
+    {
+      "title": "N-th after Binary String Expansion",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/0"
+    },
+    {
+      "title": "Largest by Concatenating Array Elements",
+      "url": "https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/0"
+    },
+    {
+      "title": "Swap Adjacent in Array",
+      "url": "https://www.geeksforgeeks.org/problems/need-some-change/0"
+    },
+    {
+      "title": "N-Queen Problem",
+      "url": "https://www.geeksforgeeks.org/problems/n-queen-problem0315/0"
+    },
+    {
+      "title": "Rat in a Maze",
+      "url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/0"
+    },
+    {
+      "title": "Insertion Sort",
+      "url": "https://www.geeksforgeeks.org/problems/insertion-sort/0"
+    },
+    {
+      "title": "Divisibility by 8",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-a-number-is-divisible-by-83957/0"
+    },
+    {
+      "title": "Insert at Bottom of Stack",
+      "url": "https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/0"
+    },
+    {
+      "title": "Implement Atoi",
+      "url": "https://www.geeksforgeeks.org/problems/implement-atoi/0"
+    },
+    {
+      "title": "Median of Array",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-median0527/0"
+    },
+    {
+      "title": "Largest 0 Sum Submatrix",
+      "url": "https://www.geeksforgeeks.org/problems/largest-rectangular-sub-matrix-whose-sum-is-0/0"
+    },
+    {
+      "title": "Buy Maximum Stocks",
+      "url": "https://www.geeksforgeeks.org/problems/buy-maximum-stocks-if-i-stocks-can-be-bought-on-i-th-day/0"
+    },
+    {
+      "title": "Count Frequent Elements",
+      "url": "https://www.geeksforgeeks.org/problems/count-element-occurences/0"
+    },
+    {
+      "title": "Maximum Meetings in One Room",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/0"
+    },
+    {
+      "title": "Minimum Candy Distribution",
+      "url": "https://www.geeksforgeeks.org/problems/candy/0"
+    },
+    {
+      "title": "Modified Game of Nim",
+      "url": "https://www.geeksforgeeks.org/problems/variation-in-nim-game4317/0"
+    },
+    {
+      "title": "Rightmost Different Bit",
+      "url": "https://www.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/0"
+    },
+    {
+      "title": "XOR of All Subarray XORs",
+      "url": "https://www.geeksforgeeks.org/problems/game-of-xor1541/0"
+    },
+    {
+      "title": "Count Strings",
+      "url": "https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints1135/0"
+    },
+    {
+      "title": "Ways to Reach the n'th Stair",
+      "url": "https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/0"
+    },
+    {
+      "title": "Painting the Fence",
+      "url": "https://www.geeksforgeeks.org/problems/painting-the-fence3727/0"
+    },
+    {
+      "title": "Consecutive 1's not allowed",
+      "url": "https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/0"
+    },
+    {
+      "title": "Gold Mine Problem",
+      "url": "https://www.geeksforgeeks.org/problems/gold-mine-problem2608/0"
+    },
+    {
+      "title": "Max Sum Subarray of Size K",
+      "url": "https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/0"
+    },
+    {
+      "title": "Smith Number",
+      "url": "https://www.geeksforgeeks.org/problems/smith-number4132/0"
+    },
+    {
+      "title": "Longest Subarray Sum Divisible by K",
+      "url": "https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/0"
+    },
+    {
+      "title": "Minimum to Add for Prime Array Sum",
+      "url": "https://www.geeksforgeeks.org/problems/transform-to-prime4635/0"
+    },
+    {
+      "title": "Range Queries for At Least K Frequent",
+      "url": "https://www.geeksforgeeks.org/problems/interesting-queries4742/0"
+    },
+    {
+      "title": "Subarrays with Max in Range",
+      "url": "https://www.geeksforgeeks.org/problems/number-of-subarrays-with-maximum-values-in-given-range5949/0"
+    },
+    {
+      "title": "Occurrences of a Digit in Range",
+      "url": "https://www.geeksforgeeks.org/problems/how-many-xs4514/0"
+    },
+    {
+      "title": "Minimize the Heights",
+      "url": "https://www.geeksforgeeks.org/problems/minimize-the-heights3351/0"
+    },
+    {
+      "title": "Sorted and Rotated Minimum",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/0"
+    },
+    {
+      "title": "Check Sum String",
+      "url": "https://www.geeksforgeeks.org/problems/additive-sequence/0"
+    },
+    {
+      "title": "Sum Pairs Across Two BSTs",
+      "url": "https://www.geeksforgeeks.org/problems/brothers-from-different-root/0"
+    },
+    {
+      "title": "Check Inorder of BST",
+      "url": "https://www.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/0"
+    },
+    {
+      "title": "BST with Dead End",
+      "url": "https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/0"
+    },
+    {
+      "title": "Shortest Path From 1 To n",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/0"
+    },
+    {
+      "title": "Euler Circuit and Path",
+      "url": "https://www.geeksforgeeks.org/problems/euler-circuit-and-path/0"
+    },
+    {
+      "title": "Detect Cycle using DSU",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-using-dsu/0"
+    },
+    {
+      "title": "Shuffle Integers",
+      "url": "https://www.geeksforgeeks.org/problems/shuffle-integers2401/0"
+    },
+    {
+      "title": "Pascal Triangle",
+      "url": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/0"
+    },
+    {
+      "title": "AVL Tree Insertion",
+      "url": "https://www.geeksforgeeks.org/problems/avl-tree-insertion/0"
+    },
+    {
+      "title": "Symmetric Tree",
+      "url": "https://www.geeksforgeeks.org/problems/symmetric-tree/0"
+    },
+    {
+      "title": "K Sum Paths",
+      "url": "https://www.geeksforgeeks.org/problems/k-sum-paths/0"
+    },
+    {
+      "title": "Intersection Sorted Linked Lists",
+      "url": "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/0"
+    },
+    {
+      "title": "Reverse a Doubly Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/0"
+    },
+    {
+      "title": "Binary Tree to Circular DLL",
+      "url": "https://www.geeksforgeeks.org/problems/binary-tree-to-cdll/0"
+    },
+    {
+      "title": "Smallest Superstring Covering All of Length n",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-string/0"
+    },
+    {
+      "title": "Strings with More Distinct Subsequences",
+      "url": "https://www.geeksforgeeks.org/problems/better-string/0"
+    },
+    {
+      "title": "String Rotation Check",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/0"
+    },
+    {
+      "title": "Shortest Common Supersequence",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/0"
+    },
+    {
+      "title": "String Rotated by 2 Places",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/0"
+    },
+    {
+      "title": "Isomorphic Strings",
+      "url": "https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/0"
+    },
+    {
+      "title": "Form Number using Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/0"
+    },
+    {
+      "title": "Column with Max 0s",
+      "url": "https://www.geeksforgeeks.org/problems/predict-the-column/0"
+    },
+    {
+      "title": "Matrix Snake Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/0"
+    },
+    {
+      "title": "Sum of upper and lower triangles",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/0"
+    },
+    {
+      "title": "Matrix Cell 1 and 2 Hop Sum Queries",
+      "url": "https://www.geeksforgeeks.org/problems/c-letters-collection4552/0"
+    },
+    {
+      "title": "Transition Point in Sorted Binary",
+      "url": "https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/0"
+    },
+    {
+      "title": "Pythagorean Triplet",
+      "url": "https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/0"
+    },
+    {
+      "title": "Minimum Distance in Array",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/0"
+    },
+    {
+      "title": "Frequencies in a Limited Array",
+      "url": "https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0"
+    },
+    {
+      "title": "Move All Zeroes to End",
+      "url": "https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/0"
+    },
+    {
+      "title": "Sum of XORs of All Pairs",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/0"
+    },
+    {
+      "title": "Check K-th Bit",
+      "url": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/0"
+    },
+    {
+      "title": "Bleak Numbers",
+      "url": "https://www.geeksforgeeks.org/problems/bleak-numbers1552/0"
+    },
+    {
+      "title": "Minimum Deletions for Palindrome",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-deletitions1648/0"
+    },
+    {
+      "title": "Minimum Operations to Reach n",
+      "url": "https://www.geeksforgeeks.org/problems/find-optimum-operation4504/0"
+    },
+    {
+      "title": "Knapsack with Duplicate Items",
+      "url": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/0"
+    },
+    {
+      "title": "Palindromic Partitioning",
+      "url": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/0"
+    },
+    {
+      "title": "Max Sum Increasing Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/0"
+    },
+    {
+      "title": "Count Paths from Top Left to Bottom Right",
+      "url": "https://www.geeksforgeeks.org/problems/number-of-paths0926/0"
+    },
+    {
+      "title": "Sum 1 to n Divisors",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/0"
+    },
+    {
+      "title": "Array Permutation Divisible by 3",
+      "url": "https://www.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/0"
+    },
+    {
+      "title": "Level of Node",
+      "url": "https://www.geeksforgeeks.org/problems/level-of-nodes-1587115620/0"
+    },
+    {
+      "title": "Transitive Closure of Graph",
+      "url": "https://www.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/0"
+    },
+    {
+      "title": "Maximum Connected with One Change",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-connected-group/0"
+    },
+    {
+      "title": "Normal BST to Balanced BST",
+      "url": "https://www.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/0"
+    },
+    {
+      "title": "Common Nodes in Two BSTs",
+      "url": "https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/0"
+    },
+    {
+      "title": "Floor in BST",
+      "url": "https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/0"
+    },
+    {
+      "title": "Duplicate Subtree Check",
+      "url": "https://www.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/0"
+    },
+    {
+      "title": "Nodes at Distance in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/0"
+    },
+    {
+      "title": "Insert in Sorted List",
+      "url": "https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/0"
+    },
+    {
+      "title": "Pairwise Swap in Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/0"
+    },
+    {
+      "title": "Reverse Alternate in Link List",
+      "url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/0"
+    },
+    {
+      "title": "Substrings with K Distinct",
+      "url": "https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/0"
+    },
+    {
+      "title": "Roman to Integer",
+      "url": "https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/0"
+    },
+    {
+      "title": "Excel Column Name from Number",
+      "url": "https://www.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/0"
+    },
+    {
+      "title": "Count Distinct Subsequences",
+      "url": "https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/0"
+    },
+    {
+      "title": "Matrix Boundary Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/0"
+    },
+    {
+      "title": "Boolean Matrix",
+      "url": "https://www.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/0"
+    },
+    {
+      "title": "1s Surrounded by 0s",
+      "url": "https://www.geeksforgeeks.org/problems/1s-surrounded-by-0s/0"
+    },
+    {
+      "title": "Closest Sum Pair Across Two Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/0"
+    },
+    {
+      "title": "4 Sum - All Quadruples",
+      "url": "https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/0"
+    },
+    {
+      "title": "Rotate Bits",
+      "url": "https://www.geeksforgeeks.org/problems/rotate-bits4524/0"
+    },
+    {
+      "title": "First Set Bit",
+      "url": "https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/0"
+    },
+    {
+      "title": "Power of 2",
+      "url": "https://www.geeksforgeeks.org/problems/power-of-2-1587115620/0"
+    },
+    {
+      "title": "Count Ways with 3 Moves",
+      "url": "https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/0"
+    },
+    {
+      "title": "Count Subsets with Sum",
+      "url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/0"
+    },
+    {
+      "title": "Perfect Numbers",
+      "url": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/0"
+    },
+    {
+      "title": "Maximum with n Digits and s Digit Sum",
+      "url": "https://www.geeksforgeeks.org/problems/largest-number-possible5028/0"
+    },
+    {
+      "title": "Lucky Numbers",
+      "url": "https://www.geeksforgeeks.org/problems/lucky-numbers2911/0"
+    },
+    {
+      "title": "Kth Largest in BST",
+      "url": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/0"
+    },
+    {
+      "title": "Binary Tree to BST",
+      "url": "https://www.geeksforgeeks.org/problems/binary-tree-to-bst/0"
+    },
+    {
+      "title": "Minimum Multiplications to Reach End",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/0"
+    },
+    {
+      "title": "Mother Vertex",
+      "url": "https://www.geeksforgeeks.org/problems/mother-vertex/0"
+    },
+    {
+      "title": "Graph Adjacency List Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/0"
+    },
+    {
+      "title": "Replace O's with X's",
+      "url": "https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/0"
+    },
+    {
+      "title": "Isomorphic Trees",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/0"
+    },
+    {
+      "title": "Visit Leaves with Budget",
+      "url": "https://www.geeksforgeeks.org/problems/leaf-under-budget/0"
+    },
+    {
+      "title": "Corner Nodes in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/0"
+    },
+    {
+      "title": "AVL Tree Deletion",
+      "url": "https://www.geeksforgeeks.org/problems/avl-tree-deletion/0"
+    },
+    {
+      "title": "Delete Nodes with Greater on Right",
+      "url": "https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/0"
+    },
+    {
+      "title": "Fractional Knapsack",
+      "url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/0"
+    },
+    {
+      "title": "Longest Substring with K Uniques",
+      "url": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/0"
+    },
+    {
+      "title": "Multiply Two Strings",
+      "url": "https://www.geeksforgeeks.org/problems/multiply-two-strings/0"
+    },
+    {
+      "title": "Word in Grid - All Occurrences",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/0"
+    },
+    {
+      "title": "Make Matrix Beautiful",
+      "url": "https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/0"
+    },
+    {
+      "title": "Sum of leaf nodes in BST",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/0"
+    },
+    {
+      "title": "BST Insert",
+      "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/0"
+    },
+    {
+      "title": "Count 1s Surrounded by Even 0s",
+      "url": "https://www.geeksforgeeks.org/problems/surround-the-1s2505/0"
+    },
+    {
+      "title": "Count Occurrences in Sorted",
+      "url": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/0"
+    },
+    {
+      "title": "Array Leaders",
+      "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/0"
+    },
+    {
+      "title": "Next Smallest Palindrome",
+      "url": "https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/0"
+    },
+    {
+      "title": "Nth Catalan Number",
+      "url": "https://www.geeksforgeeks.org/problems/nth-catalan-number0817/0"
+    },
+    {
+      "title": "Flip to Maximize 1s",
+      "url": "https://www.geeksforgeeks.org/problems/flip-bits0240/0"
+    },
+    {
+      "title": "Unique Number II",
+      "url": "https://www.geeksforgeeks.org/problems/finding-the-numbers0215/0"
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/0"
+    },
+    {
+      "title": "Coin Change (Count Ways)",
+      "url": "https://www.geeksforgeeks.org/problems/coin-change2448/0"
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/0"
+    },
+    {
+      "title": "Largest Prime Factor",
+      "url": "https://www.geeksforgeeks.org/problems/largest-prime-factor2601/0"
+    },
+    {
+      "title": "Fraction Pairs with Sum 1",
+      "url": "https://www.geeksforgeeks.org/problems/fraction-pairs-with-sum-1/0"
+    },
+    {
+      "title": "Nodes at Odd Levels",
+      "url": "https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/0"
+    },
+    {
+      "title": "Rotate Array",
+      "url": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/0"
+    },
+    {
+      "title": "Reverse Array in Groups",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/0"
+    },
+    {
+      "title": "Vertical Sum",
+      "url": "https://www.geeksforgeeks.org/problems/vertical-sum/0"
+    },
+    {
+      "title": "Vertical Tree Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/0"
+    },
+    {
+      "title": "All String Permutations in Sorted Order",
+      "url": "https://www.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/0"
+    },
+    {
+      "title": "Ancestors in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/ancestors-in-binary-tree/0"
+    },
+    {
+      "title": "Binary Tree from Inorder and Postorder",
+      "url": "https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/0"
+    },
+    {
+      "title": "Construct Tree from Inorder & Preorder",
+      "url": "https://www.geeksforgeeks.org/problems/construct-tree-1/0"
+    },
+    {
+      "title": "Chocolate Distribution Problem",
+      "url": "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/0"
+    },
+    {
+      "title": "Nodes Without Sibling",
+      "url": "https://www.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/0"
+    },
+    {
+      "title": "Two Mirror Trees",
+      "url": "https://www.geeksforgeeks.org/problems/two-mirror-trees/0"
+    },
+    {
+      "title": "Root to Leaf Paths",
+      "url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/0"
+    },
+    {
+      "title": "Max Level Sum in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/max-level-sum-in-binary-tree/0"
+    },
+    {
+      "title": "Identical Trees",
+      "url": "https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/0"
+    },
+    {
+      "title": "Deletion in a Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/deletion-in-a-binary-tree/0"
+    },
+    {
+      "title": "Level Order Line by Line",
+      "url": "https://www.geeksforgeeks.org/problems/level-order-traversal-line-by-line/0"
+    },
+    {
+      "title": "Reverse Level Order Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/0"
+    },
+    {
+      "title": "Shortest Path in Directed Acyclic Graph",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/0"
+    },
+    {
+      "title": "Concentric Square Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/square-pattern-1662666141/0"
+    },
+    {
+      "title": "Print Hollow Square",
+      "url": "https://www.geeksforgeeks.org/problems/print-square--105330/0"
+    },
+    {
+      "title": "Butterfly Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/butterfly-pattern/0"
+    },
+    {
+      "title": "Mirrored Bridge Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/double-triangle-pattern/0"
+    },
+    {
+      "title": "Pattern 14",
+      "url": "https://www.geeksforgeeks.org/problems/triangle-pattern-1662284916/0"
+    },
+    {
+      "title": "Floyd's Triangle",
+      "url": "https://www.geeksforgeeks.org/problems/floyds-triangle1222/0"
+    },
+    {
+      "title": "Half Diamond Star Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/0"
+    },
+    {
+      "title": "Inverted Triangle of Stars",
+      "url": "https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/0"
+    },
+    {
+      "title": "Pyramid Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/pyramid-patterns/0"
+    },
+    {
+      "title": "Inverted Right Angle Triangle Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/0"
+    },
+    {
+      "title": "Shortest Distance in Binary Maze",
+      "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/0"
+    },
+    {
+      "title": "DFS of Graph",
+      "url": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/0"
+    },
+    {
+      "title": "Right-Angled Number Triangle Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/right-angled-number-triangle/0"
+    },
+    {
+      "title": "Solid Right Angle Triangle Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/0"
+    },
+    {
+      "title": "Number Bridge Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/double-triangle-pattern-1662664259/0"
+    },
+    {
+      "title": "Trapping Rain Water",
+      "url": "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/0"
+    },
+    {
+      "title": "Count Pair Sum in 2 Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/count-pair-sum5956/0"
+    },
+    {
+      "title": "Adding One to Array",
+      "url": "https://www.geeksforgeeks.org/problems/adding-one2529/0"
+    },
+    {
+      "title": "Minimum Indexed Character",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/0"
+    },
+    {
+      "title": "Inorder Successor in BST",
+      "url": "https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/0"
+    },
+    {
+      "title": "Decreasing Increasing Pattern",
+      "url": "https://www.geeksforgeeks.org/problems/print-pattern3549/0"
+    },
+    {
+      "title": "Juggler Sequence",
+      "url": "https://www.geeksforgeeks.org/problems/juggler-sequence3930/0"
+    },
+    {
+      "title": "Terms of Recursive Series",
+      "url": "https://www.geeksforgeeks.org/problems/gf-series3535/0"
+    },
+    {
+      "title": "Median of BST",
+      "url": "https://www.geeksforgeeks.org/problems/median-of-bst/0"
+    },
+    {
+      "title": "Triplets Where One is Sum of Other Two",
+      "url": "https://www.geeksforgeeks.org/problems/count-the-triplets4615/0"
+    },
+    {
+      "title": "Check for BST",
+      "url": "https://www.geeksforgeeks.org/problems/check-for-bst/0"
+    },
+    {
+      "title": "Lowest Common Ancestor in a BST",
+      "url": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/0"
+    },
+    {
+      "title": "Convert To Zig-Zag",
+      "url": "https://www.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/0"
+    },
+    {
+      "title": "Remove Cycle in Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/0"
+    },
+    {
+      "title": "Kth Ancestor in a Tree",
+      "url": "https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/0"
+    },
+    {
+      "title": "Binary Search",
+      "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/0"
+    },
+    {
+      "title": "First and Last in Sorted",
+      "url": "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/0"
+    },
+    {
+      "title": "Peak in Array",
+      "url": "https://www.geeksforgeeks.org/problems/peak-element/0"
+    },
+    {
+      "title": "Iterative Inorder",
+      "url": "https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/0"
+    },
+    {
+      "title": "Reverse a Stack",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-stack/0"
+    },
+    {
+      "title": "Previous Smaller Element",
+      "url": "https://www.geeksforgeeks.org/problems/previous-smaller-element/0"
+    },
+    {
+      "title": "Reverse Using Stack",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/0"
+    },
+    {
+      "title": "Next Smaller Element",
+      "url": "https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/0"
+    },
+    {
+      "title": "Implement Stack using Array",
+      "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/0"
+    },
+    {
+      "title": "Reverse first K of a Queue",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/0"
+    },
+    {
+      "title": "Stack using Queue",
+      "url": "https://www.geeksforgeeks.org/problems/stack-using-queue/0"
+    },
+    {
+      "title": "Queue using Stack",
+      "url": "https://www.geeksforgeeks.org/problems/queue-using-two-stacks/0"
+    },
+    {
+      "title": "Queue using Stack",
+      "url": "https://www.geeksforgeeks.org/problems/queue-using-stack/0"
+    },
+    {
+      "title": "Next Greater Element 2",
+      "url": "https://www.geeksforgeeks.org/problems/next-greater-element-2/0"
+    },
+    {
+      "title": "Sort Llinked List of 0s, 1s and 2s",
+      "url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/0"
+    },
+    {
+      "title": "Remove Duplicates from Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/0"
+    },
+    {
+      "title": "Stock Span Problem",
+      "url": "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/0"
+    },
+    {
+      "title": "Get Min from Stack",
+      "url": "https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/0"
+    },
+    {
+      "title": "Remove Two Consecutive Same",
+      "url": "https://www.geeksforgeeks.org/problems/string-manipulation3706/0"
+    },
+    {
+      "title": "Stack Operations",
+      "url": "https://www.geeksforgeeks.org/problems/stacks-operations/0"
+    },
+    {
+      "title": "Valid Expression",
+      "url": "https://www.geeksforgeeks.org/problems/valid-expression1025/0"
+    },
+    {
+      "title": "Replace Consecutive Two Same with One",
+      "url": "https://www.geeksforgeeks.org/problems/consecutive-elements2306/0"
+    },
+    {
+      "title": "Linked List Group Reverse",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/0"
+    },
+    {
+      "title": "Back to Front",
+      "url": "https://www.geeksforgeeks.org/problems/back-to-front/0"
+    },
+    {
+      "title": "Sort and Reverse Vector",
+      "url": "https://www.geeksforgeeks.org/problems/sort-and-reverse-vector/0"
+    },
+    {
+      "title": "Get Min with Stack Pop",
+      "url": "https://www.geeksforgeeks.org/problems/get-min-at-pop/0"
+    },
+    {
+      "title": "Frequency of Element",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-frequency/0"
+    },
+    {
+      "title": "Parenthesis Checker",
+      "url": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/0"
+    },
+    {
+      "title": "Sort Stack",
+      "url": "https://www.geeksforgeeks.org/problems/sort-a-stack/0"
+    },
+    {
+      "title": "Opposite Sign Pair Reduction",
+      "url": "https://www.geeksforgeeks.org/problems/opposite-sign-pair-reduction/0"
+    },
+    {
+      "title": "Sum of Natural Number Cubes",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/0"
+    },
+    {
+      "title": "Sum of Primes in Set from 1 to n",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n4404/0"
+    },
+    {
+      "title": "Transform Array In-Place",
+      "url": "https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/0"
+    },
+    {
+      "title": "Count Perfect Squares",
+      "url": "https://www.geeksforgeeks.org/problems/count-squares3649/0"
+    },
+    {
+      "title": "Non-Overlapping Intervals",
+      "url": "https://www.geeksforgeeks.org/problems/non-overlapping-intervals/0"
+    },
+    {
+      "title": "Longest Palindromic Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/0"
+    },
+    {
+      "title": "BFS of Graph",
+      "url": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/0"
+    },
+    {
+      "title": "LRU Cache",
+      "url": "https://www.geeksforgeeks.org/problems/lru-cache/0"
+    },
+    {
+      "title": "Longest Repeating Subsequence",
+      "url": "https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/0"
+    },
+    {
+      "title": "Non Repeating Character",
+      "url": "https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/0"
+    },
+    {
+      "title": "At Least K Occurrences",
+      "url": "https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/0"
+    },
+    {
+      "title": "Prime Number",
+      "url": "https://www.geeksforgeeks.org/problems/prime-number2314/0"
+    },
+    {
+      "title": "Remove Duplicates Sorted Array",
+      "url": "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/0"
+    },
+    {
+      "title": "nCr",
+      "url": "https://www.geeksforgeeks.org/problems/ncr1019/0"
+    },
+    {
+      "title": "Next Greater Element",
+      "url": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/0"
+    },
+    {
+      "title": "Duplicates in Limited Range Array",
+      "url": "https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/0"
+    },
+    {
+      "title": "Missing in Array",
+      "url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/0"
+    },
+    {
+      "title": "String Duplicates Removal",
+      "url": "https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/0"
+    },
+    {
+      "title": "Search in a Row-Column Sorted",
+      "url": "https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/0"
+    },
+    {
+      "title": "Bubble Sort",
+      "url": "https://www.geeksforgeeks.org/problems/bubble-sort/0"
+    },
+    {
+      "title": "Linked List Delete at Position",
+      "url": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/0"
+    },
+    {
+      "title": "Union of 2 Sorted Arrays",
+      "url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/0"
+    },
+    {
+      "title": "Check Sorted Array",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/0"
+    },
+    {
+      "title": "Delete Node Without Linked List Head",
+      "url": "https://www.geeksforgeeks.org/problems/delete-without-head-pointer/0"
+    },
+    {
+      "title": "Height of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/height-of-binary-tree/0"
+    },
+    {
+      "title": "Remove Duplicates in Sorted Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/0"
+    },
+    {
+      "title": "Common in 3 Sorted",
+      "url": "https://www.geeksforgeeks.org/problems/common-elements1132/0"
+    },
+    {
+      "title": "Check Perfect Square",
+      "url": "https://www.geeksforgeeks.org/problems/check-perfect-square5253/0"
+    },
+    {
+      "title": "Stickler Thief",
+      "url": "https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/0"
+    },
+    {
+      "title": "Minimum Operations To Reach 1",
+      "url": "https://www.geeksforgeeks.org/problems/divisor-game-1664432414/0"
+    },
+    {
+      "title": "Stock Buy and Sell – Multiple Transaction Allowed",
+      "url": "https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/0"
+    },
+    {
+      "title": "Spirally Traversing Matrix",
+      "url": "https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/0"
+    },
+    {
+      "title": "Queue Reversal",
+      "url": "https://www.geeksforgeeks.org/problems/queue-reversal/0"
+    },
+    {
+      "title": "Java Collections | Set 7 (LinkedList)",
+      "url": "https://www.geeksforgeeks.org/problems/java-collections-set-7-linkedlist/0"
+    },
+    {
+      "title": "Quadratic Equation Roots",
+      "url": "https://www.geeksforgeeks.org/problems/quadratic-equation-roots/0"
+    },
+    {
+      "title": "Concatenate and Reverse",
+      "url": "https://www.geeksforgeeks.org/problems/java-strings-set-15112/0"
+    },
+    {
+      "title": "Mean or Average of Array",
+      "url": "https://www.geeksforgeeks.org/problems/mean0021/0"
+    },
+    {
+      "title": "Common Elements",
+      "url": "https://www.geeksforgeeks.org/problems/common-elements5420/0"
+    },
+    {
+      "title": "Data Types - Java",
+      "url": "https://www.geeksforgeeks.org/problems/data-types-java/0"
+    },
+    {
+      "title": "nextLine and next",
+      "url": "https://www.geeksforgeeks.org/problems/nextline-and-next/0"
+    },
+    {
+      "title": "Decision Making",
+      "url": "https://www.geeksforgeeks.org/problems/decision-making/0"
+    },
+    {
+      "title": "Learn to Comment",
+      "url": "https://www.geeksforgeeks.org/problems/learn-to-comment/0"
+    },
+    {
+      "title": "Convert String to Lower Case",
+      "url": "https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/0"
+    },
+    {
+      "title": "The New Line - Java",
+      "url": "https://www.geeksforgeeks.org/problems/the-new-line-java/0"
+    },
+    {
+      "title": "Start Coding",
+      "url": "https://www.geeksforgeeks.org/problems/start-coding/0"
+    },
+    {
+      "title": "Learning to be Precise",
+      "url": "https://www.geeksforgeeks.org/problems/learning-to-be-precise/0"
+    },
+    {
+      "title": "Min Cost Climbing Stairs",
+      "url": "https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/0"
+    },
+    {
+      "title": "Tower Of Hanoi",
+      "url": "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/0"
+    },
+    {
+      "title": "Largest in Array",
+      "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0"
+    },
+    {
+      "title": "1 to n Without Loop",
+      "url": "https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/0"
+    },
+    {
+      "title": "Sum of Array",
+      "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/0"
+    },
+    {
+      "title": "First n Fibonacci using Recursion",
+      "url": "https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/0"
+    },
+    {
+      "title": "Nth Fibonacci Number",
+      "url": "https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/0"
+    },
+    {
+      "title": "Factorial",
+      "url": "https://www.geeksforgeeks.org/problems/factorial5739/0"
+    },
+    {
+      "title": "Delete Mid of Stack",
+      "url": "https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/0"
+    },
+    {
+      "title": "Stream First Non-Repeating",
+      "url": "https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/0"
+    },
+    {
+      "title": "Triplet Sum in Array",
+      "url": "https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/0"
+    },
+    {
+      "title": "Union of Arrays with Duplicates",
+      "url": "https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/0"
+    },
+    {
+      "title": "Pairs with 0 Sum",
+      "url": "https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/0"
+    },
+    {
+      "title": "Sort by Decreasing Frequency",
+      "url": "https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/0"
+    },
+    {
+      "title": "Arrange Anagrams Together",
+      "url": "https://www.geeksforgeeks.org/problems/print-anagrams-together/0"
+    },
+    {
+      "title": "Sort According to Another Array",
+      "url": "https://www.geeksforgeeks.org/problems/relative-sorting4323/0"
+    },
+    {
+      "title": "Pairs with Positive Negative values",
+      "url": "https://www.geeksforgeeks.org/problems/pairs-with-positive-negative-values3719/0"
+    },
+    {
+      "title": "Election Winner",
+      "url": "https://www.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/0"
+    },
+    {
+      "title": "Zero Sum Subarray",
+      "url": "https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/0"
+    },
+    {
+      "title": "Two Sum - Pair with Given Sum",
+      "url": "https://www.geeksforgeeks.org/problems/key-pair5616/0"
+    },
+    {
+      "title": "Intersection of Arrays with Distinct",
+      "url": "https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/0"
+    },
+    {
+      "title": "First Repeating Element",
+      "url": "https://www.geeksforgeeks.org/problems/first-repeating-element4018/0"
+    },
+    {
+      "title": "Non-Repeating Element",
+      "url": "https://www.geeksforgeeks.org/problems/non-repeating-element3958/0"
+    },
+    {
+      "title": "Two Stacks in Array",
+      "url": "https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/0"
+    },
+    {
+      "title": "Min Cost to Connect Ropes",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/0"
+    },
+    {
+      "title": "Top K Frequent in Array",
+      "url": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/0"
+    },
+    {
+      "title": "k Largest Elements",
+      "url": "https://www.geeksforgeeks.org/problems/k-largest-elements4206/0"
+    },
+    {
+      "title": "k Largest Elements",
+      "url": "https://www.geeksforgeeks.org/problems/k-largest-elements3736/0"
+    },
+    {
+      "title": "Kth Largest in Stream",
+      "url": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/0"
+    },
+    {
+      "title": "Heap Sort",
+      "url": "https://www.geeksforgeeks.org/problems/heap-sort/0"
+    },
+    {
+      "title": "A Valid Order to Complete Tasks",
+      "url": "https://www.geeksforgeeks.org/problems/course-schedule/0"
+    },
+    {
+      "title": "Prerequisite Tasks",
+      "url": "https://www.geeksforgeeks.org/problems/prerequisite-tasks/0"
+    },
+    {
+      "title": "Distinct Frequencies Check",
+      "url": "https://www.geeksforgeeks.org/problems/unique-frequencies-of-not/0"
+    },
+    {
+      "title": "Check Subtree",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-subtree/0"
+    },
+    {
+      "title": "Convert to Mirror Tree",
+      "url": "https://www.geeksforgeeks.org/problems/mirror-tree/0"
+    },
+    {
+      "title": "Vertical Width of a Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/vertical-width-of-a-binary-tree/0"
+    },
+    {
+      "title": "LCA in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/0"
+    },
+    {
+      "title": "Diameter of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/0"
+    },
+    {
+      "title": "Right View of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/0"
+    },
+    {
+      "title": "Balanced Tree Check",
+      "url": "https://www.geeksforgeeks.org/problems/check-for-balanced-tree/0"
+    },
+    {
+      "title": "Zig-Zag Tree Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/0"
+    },
+    {
+      "title": "Safe States",
+      "url": "https://www.geeksforgeeks.org/problems/eventual-safe-states/0"
+    },
+    {
+      "title": "Raise to Power of Its Own Reverse",
+      "url": "https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/0"
+    },
+    {
+      "title": "Children Sum in a Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/children-sum-parent/0"
+    },
+    {
+      "title": "Maximum Level in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/0"
+    },
+    {
+      "title": "Min and Max in Array",
+      "url": "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/0"
+    },
+    {
+      "title": "Level Order Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/level-order-traversal/0"
+    },
+    {
+      "title": "Left View of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/0"
+    },
+    {
+      "title": "Height of Heap",
+      "url": "https://www.geeksforgeeks.org/problems/height-of-heap5025/0"
+    },
+    {
+      "title": "Minimum in BST",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-element-in-bst/0"
+    },
+    {
+      "title": "Size of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/size-of-binary-tree/0"
+    },
+    {
+      "title": "Count Leaves in Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/0"
+    },
+    {
+      "title": "Sum of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-binary-tree/0"
+    },
+    {
+      "title": "Count Internal Nodes in Tree",
+      "url": "https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/0"
+    },
+    {
+      "title": "Postorder Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/postorder-traversal/0"
+    },
+    {
+      "title": "Preorder Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/preorder-traversal/0"
+    },
+    {
+      "title": "Inorder Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/inorder-traversal/0"
+    },
+    {
+      "title": "Kth of Spiral Matrix Traversal",
+      "url": "https://www.geeksforgeeks.org/problems/find-nth-element-of-spiral-matrix/0"
+    },
+    {
+      "title": "Transpose of Matrix",
+      "url": "https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/0"
+    },
+    {
+      "title": "Smallest Positive Missing",
+      "url": "https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/0"
+    },
+    {
+      "title": "Check Triplet With 0 Sum",
+      "url": "https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/0"
+    },
+    {
+      "title": "Merge Without Extra Space",
+      "url": "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/0"
+    },
+    {
+      "title": "Detect Loop in Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/0"
+    },
+    {
+      "title": "Reverse a Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/0"
+    },
+    {
+      "title": "Indexes of Subarray Sum",
+      "url": "https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/0"
+    },
+    {
+      "title": "Histogram Max Rectangular Area",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/0"
+    },
+    {
+      "title": "Solve the Sudoku",
+      "url": "https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/0"
+    },
+    {
+      "title": "Partition Into 2 Subsets with Min Sum Diff",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/0"
+    },
+    {
+      "title": "Subset with Pair Sums Not Divisible by K",
+      "url": "https://www.geeksforgeeks.org/problems/subset-with-no-pair-sum-divisible-by-k1105/0"
+    },
+    {
+      "title": "Arithmetic Number",
+      "url": "https://www.geeksforgeeks.org/problems/arithmetic-number2815/0"
+    },
+    {
+      "title": "Minimum Element Meeting Average",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-integer--170647/0"
+    },
+    {
+      "title": "Max Possible Perimeter Sum using Sticks",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-possible-value--170647/0"
+    },
+    {
+      "title": "Make Array Elements Equal",
+      "url": "https://www.geeksforgeeks.org/problems/make-array-elements-equal--170647/0"
+    },
+    {
+      "title": "Remainder on Division by 11",
+      "url": "https://www.geeksforgeeks.org/problems/remainder-on-dividing-by-11--170647/0"
+    },
+    {
+      "title": "Minimum Steps Required",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-steps-required--170647/0"
+    },
+    {
+      "title": "Equilibrium Point",
+      "url": "https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/0"
+    },
+    {
+      "title": "Two odd Occuring",
+      "url": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/0"
+    },
+    {
+      "title": "Count of Subarrays",
+      "url": "https://www.geeksforgeeks.org/problems/count-of-subarrays5922/0"
+    },
+    {
+      "title": "Array Removals to Limit Max-Min Diff",
+      "url": "https://www.geeksforgeeks.org/problems/array-removals/0"
+    },
+    {
+      "title": "K Sized Subarray Maximum",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/0"
+    },
+    {
+      "title": "Kadane's Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/0"
+    },
+    {
+      "title": "Two Arrays Permutation Check",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/0"
+    },
+    {
+      "title": "Second Largest",
+      "url": "https://www.geeksforgeeks.org/problems/second-largest3735/0"
+    },
+    {
+      "title": "Array Search",
+      "url": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/0"
+    },
+    {
+      "title": "Kth from End of Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0"
+    },
+    {
+      "title": "Middle of Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/0"
+    },
+    {
+      "title": "Identical Linked Lists",
+      "url": "https://www.geeksforgeeks.org/problems/identical-linked-lists/0"
+    },
+    {
+      "title": "Node at Given Index",
+      "url": "https://www.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/0"
+    },
+    {
+      "title": "Modular Node in Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/modular-node/0"
+    },
+    {
+      "title": "Sum of Last n in Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/0"
+    },
+    {
+      "title": "Find n/k th in Linked list",
+      "url": "https://www.geeksforgeeks.org/problems/find-nk-th-node-in-linked-list/0"
+    },
+    {
+      "title": "Delete Alternate Nodes",
+      "url": "https://www.geeksforgeeks.org/problems/delete-alternate-nodes/0"
+    },
+    {
+      "title": "Delete in a Doubly Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/0"
+    },
+    {
+      "title": "Insert at Middle of Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/0"
+    },
+    {
+      "title": "Is Linked List Length Even",
+      "url": "https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/0"
+    },
+    {
+      "title": "Stack using Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/0"
+    },
+    {
+      "title": "Check If Circular Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/circular-linked-list/0"
+    },
+    {
+      "title": "Print Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/print-linked-list-elements/0"
+    },
+    {
+      "title": "Length of Linked List",
+      "url": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0"
+    },
+    {
+      "title": "Linked List End Insertion",
+      "url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0"
+    },
+    {
+      "title": "Sequence Fun",
+      "url": "https://www.geeksforgeeks.org/problems/sequence-fun5018/0"
+    },
+    {
+      "title": "Filling Bucket Using 1 and 2",
+      "url": "https://www.geeksforgeeks.org/problems/filling-bucket0529/0"
+    },
+    {
+      "title": "First Occurence",
+      "url": "https://www.geeksforgeeks.org/problems/implement-strstr/0"
+    },
+    {
+      "title": "Anagram",
+      "url": "https://www.geeksforgeeks.org/problems/anagram-1587115620/0"
+    },
+    {
+      "title": "Remove Spaces",
+      "url": "https://www.geeksforgeeks.org/problems/remove-spaces0128/0"
+    },
+    {
+      "title": "Palindrome String",
+      "url": "https://www.geeksforgeeks.org/problems/palindrome-string0817/0"
+    },
+    {
+      "title": "Reverse a String",
+      "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/0"
+    },
+    {
+      "title": "Merge Sort",
+      "url": "https://www.geeksforgeeks.org/problems/merge-sort/0"
+    },
+    {
+      "title": "Quick Sort",
+      "url": "https://www.geeksforgeeks.org/problems/quick-sort/0"
+    },
+    {
+      "title": "Majority Element",
+      "url": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/0"
+    },
+    {
+      "title": "Kth Smallest",
+      "url": "https://www.geeksforgeeks.org/problems/kth-smallest-element5635/0"
+    },
+    {
+      "title": "Sort 0s, 1s and 2s",
+      "url": "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/0"
+    },
+    {
+      "title": "First Occurrence in Sorted",
+      "url": "https://www.geeksforgeeks.org/problems/binary-search-1587115620/0"
+    }
+  ]
+}
