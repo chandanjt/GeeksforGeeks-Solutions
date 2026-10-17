@@ -4,10 +4,21 @@ This index lists the public solution set included in the repository. The reposit
 
 ## Summary
 
-- Total public solutions: 381
-- C++ solutions: 280
-- Java solutions: 100
-- JavaScript solutions: 2
+- Total verified problem entries: 381
+- Total public source files: 382
+- C++ files: 280
+- Java files: 100
+- JavaScript files: 2
+
+## Public layout
+
+```text
+solutions/
+├── cpp/
+├── java/
+├── javascript/
+└── README.md
+```
 
 ## Notes
 
@@ -17,4 +28,4 @@ This index lists the public solution set included in the repository. The reposit
 
 ## Directories and Files
 
-The public solution files live alongside this README and the project scripts in the repository root. Each file represents a verified GeeksforGeeks submission available for review.
+The public solution files are stored under the `solutions/` directories by language. Each file represents a verified GeeksforGeeks submission available for review.

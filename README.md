@@ -4,13 +4,24 @@ This repository contains a public collection of verified GeeksforGeeks problem s
 
 ## Scope
 
-The public repository currently includes a curated set of solved problems that were verified and exported successfully. These solutions are preserved in their original source form, without reformatting or normalization.
+The public repository includes the verified export set from the solved problem list and keeps the original source code intact. The exported solutions are stored in a clean public layout and are intentionally separated from private browser state and local export artifacts.
 
 ## Included Solutions
 
-- Total verified public solutions: 381
+- 381 verified problem entries in the public set
+- 382 source files preserved in the public layout, including one duplicate-language variant with the same slug
 - Languages represented: C++, Java, JavaScript
-- Source files are kept in their original filenames and preserved as exported from the platform
+
+## Public Layout
+
+```text
+solutions/
+├── cpp/
+├── java/
+├── javascript/
+├── README.md
+└── SOLUTIONS.md
+```
 
 ## Repository Notes
 
